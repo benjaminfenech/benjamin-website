@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Express web app for my personal website.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
